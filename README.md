@@ -4,7 +4,7 @@
 This Python application provides a simple user authentication system using MSSQL. Users can sign up, log in securely, and interact with the system through a command-line interface. Passwords are stored securely using SHA-256 hashing.
 # Features
 
-User Registration: Allows users to create an account with a unique username and password.
+## User Registration: Allows users to create an account with a unique username and password.
 
 Secure Login: Authenticates users using stored hashed passwords.
 
