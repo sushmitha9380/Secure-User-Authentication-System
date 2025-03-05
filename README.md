@@ -23,10 +23,15 @@ This Python application provides a simple user authentication system using MSSQL
 # Installation
 
 1. Clone this repository or download the script.
+2. Install the required dependency:
+```bash
+pip install pyodbc
+```
+3. Set up your Microsoft SQL Server and create a database named Login.
+4. Update the SERVER and DATABASE values in create_db_connection() to match your setup.
 
-2. Update the SERVER and DATABASE values in create_db_connection() to match your setup.
-
-3. Run the script using
+# Usage
+- **Run the script using**
 ```bash
    python authentication.py
 ```
