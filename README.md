@@ -27,5 +27,5 @@ Clone this repository or download the script.
 Update the SERVER and DATABASE values in create_db_connection() to match your setup.
 
 Run the script using:
-#base python authentication.py
+ python authentication.py
 
