@@ -46,3 +46,23 @@ Update Database Connection in the Notebook
    - 🔐 **Signup**: Register a new user by entering a unique username and password. The password will be securely hashed and stored in the MSSQL database.
    - 🔑 **Login**: Enter an existing username and password to verify creden
 
+---
+
+# 🖥️ Sample Output
+
+### 🔐 Signup
+
+```plaintext
+Enter username: sushmitha
+Enter password: ********
+✅ User 'sushmitha' registered successfully!
+
+🔑 Login
+Enter username: sushmitha
+Enter password: ********
+✅ Login successful! Welcome, sushmitha!
+
+❌ Invalid Login Attempt
+Enter username: sushmitha
+Enter password: wrongpassword
+❌ Login failed: Incorrect username or password.
