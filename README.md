@@ -56,13 +56,17 @@ Update Database Connection in the Notebook
 Enter username: sushmitha
 Enter password: ********
 ✅ User 'sushmitha' registered successfully!
+```
 
-🔑 Login
+### 🔑 Login
+```bash
 Enter username: sushmitha
 Enter password: ********
 ✅ Login successful! Welcome, sushmitha!
+```
 
-❌ Invalid Login Attempt
+### ❌ Invalid Login Attempt
+```bash
 Enter username: sushmitha
 Enter password: wrongpassword
 ❌ Login failed: Incorrect username or password.
