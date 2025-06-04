@@ -48,21 +48,21 @@ Update Database Connection in the Notebook
 
 ---
 
-# 🖥️ Sample Output
+#  Sample Output
 
 ###  Signup
 
 ```plaintext
 Enter username: sushmitha
 Enter password: ********
-✅ User 'sushmitha' registered successfully!
+  User 'sushmitha' registered successfully!
 ```
 
 ###  Login
 ```bash
 Enter username: sushmitha
 Enter password: ********
-✅ Login successful! Welcome, sushmitha!
+  Login successful! Welcome, sushmitha!
 ```
 
 ###  Invalid Login Attempt
