@@ -66,3 +66,13 @@ Enter password: ********
 Enter username: sushmitha
 Enter password: wrongpassword
 ❌ Login failed: Incorrect username or password.
+```
+
+---
+
+## Contact
+*For any questions or suggestions, please contact:*
+
+- Sushmitha
+- Email: sushmithars5992@gmail.com
+- GitHub: sushmitha9380
